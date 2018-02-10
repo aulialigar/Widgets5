@@ -13,4 +13,5 @@ The app illustrates the power of widgets and collection widgets by making it eas
 ## Image resources
 https://pixabay.com/en/sapling-plant-growing-seedling-154734/
 https://pixabay.com/en/cactus-cacti-plant-thorns-spiky-152378/
-https://pixabay.com/en/the-background-background-design-352165/
+https://pixabay.com/en/the-background-background-design-352165/<br><br>
+Link file apk https://drive.google.com/open?id=1gMgHJKrseqZFbmnaPiNdkdIFAJLS66Oj
